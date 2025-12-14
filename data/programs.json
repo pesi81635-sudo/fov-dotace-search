@@ -1,0 +1,53 @@
+[
+  {
+    "id": "fov-2025-2028",
+    "nazev": "FOV 2025-2028",
+    "popis": "Fond obnovy venkova pro obce do 2000 obyvatel",
+    "terminy": {
+      "od": "2025-09-01",
+      "do": "2028-06-30"
+    },
+    "castka": {
+      "min": 50000,
+      "max": 200000
+    },
+    "oblasti": [
+      "dopravní infrastruktura",
+      "technická infrastruktura",
+      "veřejná prostranství",
+      "občanská vybavenost",
+      "kultura a sport",
+      "životní prostředí"
+    ],
+    "prilohy": [
+      {
+        "id": "program",
+        "nazev": "Program FOV 2025-2028",
+        "typ": "program",
+        "soubor": "Program_FOV_2025-2028.pdf",
+        "textContent": "Fond obnovy venkova (FOV) je dotační program Středočeského kraje zaměřený na podporu obcí do 2000 obyvatel. Program podporuje investice do dopravní infrastruktury, technické infrastruktury, veřejných prostranství, občanské vybavenosti, kultury a sportu, a ochrany životního prostředí.\n\nDotace: Maximální výše dotace je 200 000 Kč nebo 1 000 Kč na obyvatele obce.\nMinimální výše dotace: 50 000 Kč\nSpoluúčast obce: minimálně 30 % z celkových uznatelných nákladů projektu.\n\nTermíny:\n- Příjem žádostí: od 1. září 2025 do 31. října 2025\n- Vyhodnocení a schválení: do 31. prosince 2025\n- Realizace projektu: do 30. června 2028\n\nPodporované oblasti:\n1. Dopravní infrastruktura - opravy a rekonstrukce místních komunikací, chodníků, veřejného osvětlení\n2. Technická infrastruktura - vodovody, kanalizace, čistírny odpadních vod\n3. Veřejná prostranství - parky, zeleň, dětská hřiště, workoutová hřiště\n4. Občanská vybavenost - obecní úřady, hasičské zbrojnice, knihovny\n5. Kultura a sport - kulturní domy, sportovní areály\n6. Životní prostředí - protipovodňová opatření, revitalizace"
+      },
+      {
+        "id": "smlouva",
+        "nazev": "Vzorová smlouva o poskytnutí dotace",
+        "typ": "smlouva",
+        "soubor": "Smlouva_FOV_2025-2028.pdf",
+        "textContent": "SMLOUVA O POSKYTNUTÍ DOTACE č. ___/2025\n\nuzavřená podle § 159 a násl. zákona č. 500/2004 Sb., správní řád, ve znění pozdějších předpisů\n\nPoskytovatel:\nStředočeský kraj\nse sídlem: Zborovská 81/11, 150 21 Praha 5\nIČO: 70891095\n\nPříjemce:\nObec _________________\nse sídlem: _________________\nIČO: _________________\n\nPředmět smlouvy:\nPoskytnutí dotace na projekt: _________________\nCelkové uznatelné náklady projektu: _____ Kč\nVýše dotace: _____ Kč (max. 70 % celkových nákladů, max. 200 000 Kč nebo 1 000 Kč/obyvatele)\nSpoluúčast obce: _____ Kč (min. 30 % celkových nákladů)\n\nÚčel použití dotace:\nDotace je určena výhradně na realizaci projektu v oblasti _________________\n\nTermín realizace:\nProjekt musí být dokončen a vyúčtován nejpozději do 30. června 2028.\n\nPodmínky poskytnutí dotace:\n- Dotace musí být použita v souladu s účelem uvedeným ve smlouvě\n- Příjemce je povinen realizovat projekt v termínu\n- Příjemce je povinen vést evidenci výdajů\n- Příjemce označí projekt informační tabulí"
+      },
+      {
+        "id": "vyhlaseni-2025",
+        "nazev": "Vyhlášení programu pro rok 2025",
+        "typ": "vyhlaseni",
+        "soubor": "Vyhlaseni_FOV_2025.pdf",
+        "textContent": "VYHLÁŠENÍ PROGRAMU FOV 2025-2028\n\nRada Středočeského kraje vyhlašuje Fond obnovy venkova (FOV) pro období 2025-2028.\n\nHarmonogram:\n1. září 2025 - zahájení příjmu žádostí\n31. října 2025 - uzávěrka příjmu žádostí\n30. listopadu 2025 - vyhodnocení žádostí komisí\n31. prosince 2025 - schválení žádostí Radou kraje\nleden 2026 - podpisy smluv\n30. června 2028 - konec realizace projektů\n\nOprávnění žadatelé:\nObce Středočeského kraje s počtem obyvatel do 2 000 k 1. 1. 2025\n\nVyloučení obce:\n- Obce, které mají nesplněné závazky vůči kraji\n- Obce v insolvenci\n- Obce s nedořešenými sankcemi z předchozích dotací\n\nHodnotící kritéria:\n1. Soulad s rozvojovou strategií obce (0-20 bodů)\n2. Připravenost projektu (0-20 bodů)\n3. Dopad projektu na obyvatele (0-20 bodů)\n4. Spoluúčast obce nad 30 % (0-20 bodů)\n5. Udržitelnost projektu (0-20 bodů)\n\nMinimální bodový limit: 60 bodů"
+      },
+      {
+        "id": "zmeny-2026",
+        "nazev": "Změny programu platné od 2026",
+        "typ": "zmeny",
+        "soubor": "Zmeny_FOV_2026.pdf",
+        "textContent": "DODATEK K PROGRAMU FOV 2025-2028\nZměny platné od 1. ledna 2026\n\nRada Středočeského kraje schvaluje následující změny programu FOV:\n\n1. Navýšení maximální dotace:\n- Nová výše: 250 000 Kč nebo 1 200 Kč/obyvatele (původně 200 000 Kč nebo 1 000 Kč/obyvatele)\n\n2. Nové podporované oblasti:\n- Digitalizace služeb obce (e-government, Wi-Fi ve veřejných prostorách)\n- Energetická efektivita obecních budov\n\n3. Změna termínů pro rok 2026:\n- Příjem žádostí: 1. března 2026 - 30. dubna 2026\n- Vyhodnocení: do 30. června 2026\n\n4. Zjednodušení administrace:\n- Možnost elektronického podání žádosti\n- Zkrácení lhůt pro vyřízení\n\n5. Změna hodnotících kritérií:\n- Nové kritérium: Ekologický přínos projektu (0-10 bodů)\n- Minimální bodový limit zvýšen na 65 bodů"
+      }
+    ]
+  }
+]
